@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PowerLinearityTradeoff
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Angelov
+    email: pavel.angelov@liu.se
+    affiliation: Linköping University
+    orcid: 'https://orcid.org/0000-0002-0445-0856'
+  - given-names: Martin
+    family-names: Nielsen-Lönn
+    email: martin.nielsen.lonn@liu.se
+    affiliation: Linköping University
+    orcid: 'https://orcid.org/0000-0003-2056-4762'
+repository-code: 'https://github.com/martinnl/PowerLinearityTradeoff'
+license: GPL-3.0
